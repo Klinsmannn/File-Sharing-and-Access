@@ -23,37 +23,49 @@ This tutorial outlines the implementation of on-premises File Sharing within Azu
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Security Users
-- Permissions
-- Access DC Folders
+- Enabling Network Sharing
+- Sharing Files
+- Permissions and Searching for Computer in Network
 
 <h2>Deployment and Configuration Steps</h2>
 
+<p>
+<img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/1dfdca70-ff41-446c-a19d-33b46984ac3a">
+</p>
+<p>
+  <br />
+  <img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/ed4e23b1-031f-4f26-8beb-b3eb5ba5bdf1">
+
+  Type in Control panel in Windows seach bar and go into Network and Internet. Inside of network and internet go to change advanced settings. From there you change Network discovery and File sharing to On.  In All Networks turn on "Turn on sharing so anyone with network access can read and write files in public folders". Save changes and restart computer.
+</p>
+<br />
+
+<p>
 <p>
 <img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/ecd93f41-96e5-48c0-9c21-c72741954f88">
 
 </p>
 <p>
+<br />
+<br />
   
-<img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/0e1a3656-2a90-421e-8d8a-35fa835f9687">
+<img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/3919ad64-014b-4060-afac-9b42fb1de11c">
 <br />
 
-  Right click file or folder and go into properties. In properties go into the security tab and hit advanced to see who has access to the folder
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Right click file or folder and go into properties. In properties go into the sharing tab and click on "share" to see who has access to the folder. Add new users or remove them typing in their name or right clicking and hitting remove. On the right you can change permissions like read/write, no access or full access. 
 </p>
 <br />
 
+<img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/97bc7dae-d37e-41fd-a91e-f4c84fd162b1">
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />  
+</p>
+
+
+<img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/3987773e-ba5c-4996-af6b-2623d5d97413">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Right click file and go to properties to change permissions. In Securities tab go to Advanced and pick the group whos permission you want to change. Go into the search bar of your file explorer and look for the computer of the files you need and type in backslash twice with the computer name.    \\Computer Name
+  
 </p>
 <br />
