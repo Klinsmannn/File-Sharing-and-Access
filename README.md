@@ -65,7 +65,7 @@ This tutorial outlines the implementation of on-premises File Sharing within Azu
 <img src="https://github.com/Klinsmannn/File-Sharing-and-Access/assets/146140975/3987773e-ba5c-4996-af6b-2623d5d97413">
 </p>
 <p>
- Right click file and go to properties to change permissions. In Securities tab go to Advanced and pick the group whos permission you want to change. Go into the search bar of your file explorer and look for the computer of the files you need and type in backslash twice with the computer name.    \\Computer Name
+ Right click file and go to properties to change permissions. In Securities tab go to Advanced and pick the group who's permission you want to change. Go into the search bar of your file explorer and look for the computer of the files you need and type in backslash twice with the computer name.    \\Computer Name
   
 </p>
 <br />
